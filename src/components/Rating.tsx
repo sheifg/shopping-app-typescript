@@ -37,11 +37,11 @@ export default function Rating({ rating }: RatingProps) {
   // - element: the current element being processed in the array
   // - index: the index of the current element being processed in the array
   //, mapFn
-  const fillStars2 = Array.from({ length: Math.round(rating) }, (_, i) => i);
-  const unFilledStars2 = Array.from(
-    { length: 5 - Math.round(rating) },
-    (_, i) => i
-  );
+  // const fillStars2 = Array.from({ length: Math.round(rating) }, (_, i) => i);
+  // const unFilledStars2 = Array.from(
+  //  { length: 5 - Math.round(rating) },
+  //  (_, i) => i
+  //);
 
   return (
     <>
