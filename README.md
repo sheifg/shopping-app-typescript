@@ -1,7 +1,7 @@
 ## **Shopping App TypeScript**
 
 ### *Project Description:*
-Shopping App TypeScript is a React project and it was created using create-react-app. To style the project it was used Tailwind CSS.
+Shopping App TypeScript is a React Redux project with Redux Toolkit and it was created using Vite. To style the project it was used Tailwind CSS.
 
 ### *Getting started:* 
   - First install all the dependencies:
